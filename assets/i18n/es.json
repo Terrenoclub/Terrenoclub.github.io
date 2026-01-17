@@ -1,0 +1,247 @@
+{
+  "language": "Español",
+  "head": {
+    "home": {
+      "title": "Terreno Club — Juega. Relájate. Conecta.",
+      "description": "Descubre Terreno Club, un club social en El Terreno que combina deporte, gastronomía y bienestar.",
+      "ogTitle": "Terreno Club",
+      "ogDescription": "Descubre Terreno Club: un espacio creativo y moderno."
+    },
+    "privacy": {
+      "title": "Terreno Club — Política de privacidad",
+      "description": "Conoce cómo Terreno Club gestiona y protege tu información personal.",
+      "ogTitle": "Terreno Club — Privacidad",
+      "ogDescription": "Infórmate sobre el enfoque de Terreno Club respecto a la protección de datos."
+    }
+  },
+  "nav": {
+    "ariaLabel": "Secciones del sitio",
+    "links": {
+      "presentacion": "Club",
+      "padel": "Pádel",
+      "food": "Restaurante",
+      "swim": "Piscina",
+      "membership": "Membresía",
+      "contact": "Contacto"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Terreno Club. Todos los derechos reservados.",
+    "languageLabel": "Idioma",
+    "email": "info@terrenoclub.es",
+    "phone": "+34 971 45 36 46",
+    "instagramAria": "Abrir Terreno Club en Instagram (se abre en una pestaña nueva)",
+    "gallery": {
+      "title": "Vida en Terreno Club",
+      "cta": "Síguenos en Instagram",
+      "ctaAria": "Ver las últimas publicaciones de Terreno Club en Instagram (se abre en una pestaña nueva)",
+      "ariaLabel": "Galería de Instagram de Terreno Club"
+    },
+    "links": {
+      "terms": "Términos",
+      "privacy": "Privacidad",
+      "rules": "Normas",
+      "contact": "Contacto"
+    }
+  },
+  "languageNames": {
+    "en": "English",
+    "es": "Español"
+  },
+  "home": {
+    "hero": {
+      "title": "Juega. Relájate. Conecta.",
+      "tagline": "Vive un club donde bienestar, actividad y estilo de vida se encuentran.",
+      "ctaMembership": "Solicitar membresía",
+      "ctaContact": "Contactar",
+      "ctaMenu": "Menú del día (PDF)",
+      "ctaMenuAria": "Abrir el menú del día semanal en PDF en una nueva pestaña"
+    },
+    "media": {
+      "heroAlt": "Vista aérea de Terreno Club",
+      "aboutGraphicAlt": "Gráfico de membresías de Terreno Club",
+      "aboutGraphicSrc": "titles_images/titles_about_es.svg",
+      "aboutInteriorAlt": "Lobby interior de Terreno Club",
+      "padelHeroAlt": "Pista de pádel en Terreno Club",
+      "padelGraphicAlt": "Gráfico de título de la sección Pádel",
+      "padelGraphicSrc": "titles_images/titles_padel_es.svg",
+      "padelActionAlt": "Personas jugando pádel en Terreno Club",
+      "foodHeroAlt": "Terraza del club al atardecer",
+      "foodGraphicAlt": "Gráfico de título de la sección Restaurante",
+      "foodGraphicSrc": "titles_images/titles_food_es.svg",
+      "foodDetailAlt": "Terraza del club al atardecer",
+      "swimHeroAlt": "Terraza del club junto a la piscina",
+      "swimGraphicAlt": "Gráfico de título de la sección Piscina",
+      "swimGraphicSrc": "titles_images/titles_pool_es.svg",
+      "swimRelaxAlt": "Personas relajándose junto a la piscina exterior",
+      "membershipHeroAlt": "Socios compartiendo una comida en mesa larga en la terraza",
+      "membershipGraphicAlt": "Gráfico de título de la sección Membresía",
+      "membershipGraphicSrc": "titles_images/titles_membership_es.svg",
+      "membershipMiniAlt": "Hamacas y sombrillas junto a la piscina de Terreno Club",
+      "contactHeroAlt": "Piscina exterior del club",
+      "contactGraphicAlt": "Gráfico de título de la sección Contacto",
+      "contactGraphicSrc": "titles_images/titles_contact_es.svg"
+    },
+    "about": {
+      "paragraph1": "Bienvenido a Terreno Club, un refugio privado en el corazón del histórico barrio de El Terreno en Palma. Pensado para quienes valoran el equilibrio entre deporte, descanso y una vida social refinada, Terreno Club ofrece un escenario exclusivo donde la elegancia mediterránea se encuentra con el confort contemporáneo.",
+      "paragraph2": "Las personas socias disfrutan de pistas de pádel, una animada terraza junto a la piscina y un restaurante que combina sofisticación con una naturalidad relajada. Ya sea para un partido temprano, un almuerzo pausado o una tarde entre amigos, Terreno Club te invita a bajar el ritmo y saborear los mejores momentos de la vida."
+    },
+    "padel": {
+      "heading": "Pádel",
+      "paragraph1": "Disfruta de tres pistas de pádel premium diseñadas para jugar en dobles en un entorno luminoso al aire libre. Juega partidos con amistades o participa en partidas comunitarias mientras disfrutas del ambiente del club.",
+      "paragraph2": "Las personas socias también pueden reservar clases privadas o grupales con nuestro equipo profesional para recibir orientación personalizada y desarrollar sus habilidades."
+    },
+    "food": {
+      "heading": "Restaurante",
+      "paragraph1": "Abierto al público, nuestro restaurante ofrece platos elaborados con producto local, además de cócteles, smoothies y café de especialidad.",
+      "paragraph2": "Los fines de semana y festivos servimos un brunch especial.",
+      "paragraph3": "A lo largo del año organizamos eventos únicos para disfrutar en comunidad.",
+      "bookTableCta": "Reservar mesa",
+      "menuCtaLabel": "Ver el menú (PDF)",
+      "menuCtaAria": "Abrir el menú completo del restaurante en una nueva pestaña",
+      "bookTableModalTitle": "Reserva tu mesa",
+      "bookTableCloseLabel": "Cerrar el modal de reservas"
+    },
+    "swim": {
+      "heading": "Piscina",
+      "paragraph1": "Sumérgete en nuestra piscina climatizada al aire libre, rodeada de vegetación mediterránea y zonas de descanso diseñadas para desconectar del ritmo urbano.",
+      "paragraph2": "Relájate en las hamacas y daybeds del solárium mientras disfrutas del servicio de bebidas y snacks saludables del club.",
+      "paragraph3": "Completa la experiencia con duchas exteriores, toallas frescas y un ambiente sereno pensado para recuperar energía a cualquier hora del día."
+    },
+    "membership": {
+      "headingShort": "Membresías",
+      "heading": "Membresía pensada para la vida en El Terreno",
+      "paragraph1": "Descubre un lugar donde el bienestar, el ocio y la conexión fluyen de forma natural.",
+      "paragraph2": "Como miembro de Terreno Club, disfrutarás de nuestros espacios sociales, la piscina climatizada de agua salada, las pistas de pádel y eventos pensados para reunir a la comunidad.",
+      "paragraph3": "Es más que un club: es una comunidad. Un lugar para desconectar, compartir buenos momentos y ser parte de algo especial en el corazón de Palma. Únete a Terreno Club y siéntete como en casa desde el primer día.",
+      "benefitsHeading": "Como miembro, disfrutas de:",
+      "benefits": {
+        "item1": "Nuestra piscina exterior climatizada de agua salada",
+        "item2": "Uso ilimitado de las pistas de pádel sin coste adicional",
+        "item3": "10% de ahorro en el restaurante y el bar de piscina",
+        "item4": "Invitaciones para acompañantes por 10 € por persona/día",
+        "item5": "Acceso prioritario a eventos curados y experiencias exclusivas para socios",
+        "item6": "Sin cuota de inscripción"
+      },
+      "annualMembership": "<strong>Membresía anual (1.290 €):</strong> Acceso completo a todas las instalaciones y ventajas del club.",
+      "householdMembership": "<strong>Membresía familiar (967,50 €):</strong> Añade miembros del hogar con un 25% de descuento, con todos los beneficios incluidos.",
+      "childrenHeading": "<strong>Menores:</strong>",
+      "children": {
+        "age05": "<strong>0–5 años:</strong> Sin coste",
+        "age613": "<strong>6–13 años:</strong> 430 €/año o 10 €/día como invitado",
+        "age14": "<strong>14+ años:</strong> 645 €/año o 10 €/día como invitado"
+      },
+      "closing": "Es más que un club: es una comunidad. Un lugar para desconectar, compartir buenos momentos y ser parte de algo especial en el corazón de Palma. Únete a Terreno Club y siéntete como en casa desde el primer día. Contáctanos para más información.",
+      "intro": "Terreno Club mantiene una comunidad íntima: residentes de Palma que viven la terraza, las pistas de pádel y el restaurante como su salón mediterráneo.",
+      "highlights": {
+        "item1": "Acceso durante todo el año a la piscina, restaurante, pistas de pádel y programación curada del club.",
+        "item2": "Tarifas para hogares, invitaciones para invitados y complementos flexibles como Padel+, Parking+ y Gym+.",
+        "item3": "Acompañamiento concierge para clases privadas, tratamientos y eventos junto a nuestros colaboradores."
+      },
+      "ctaLabel": "Solicitar membresía",
+      "ctaAria": "Iniciar la solicitud de membresía de Terreno Club por correo electrónico",
+      "tabs": {
+        "ariaLabel": "Detalles de la membresía del club",
+        "plan": "Planes y precios",
+        "family": "Familias e invitados",
+        "rules": "Acceso y normas"
+      },
+      "panels": {
+        "plan": {
+          "heading": "Planes y precios",
+          "intro": "Construye tu membresía con los complementos que mejor se adapten a tu rutina.",
+          "base": {
+            "title": "Membresía Base",
+            "description": "Acceso a piscina, terraza y eventos del club, además de un 10% de descuento en el restaurante. Incluye la entrada de un acompañante invitado.",
+            "priceMonthly": "110 € / mes",
+            "priceAnnual": "82,5 € / mes (990 € / año) con pago anual."
+          },
+          "padel": {
+            "title": "Padel+",
+            "description": "Reservas ilimitadas de pádel y posibilidad de bloquear hasta 2 horas semanales. Permite invitar a tres acompañantes que solo abonan el coste de la pista.",
+            "priceMonthly": "40 € / mes",
+            "priceAnnual": "30 € / mes con pago anual."
+          },
+          "parking": {
+            "title": "Parking+",
+            "description": "Uso de las plazas de parking del club durante un máximo de 4 horas al día, sujeto a disponibilidad.",
+            "priceMonthly": "50 € / mes",
+            "priceAnnual": "37,5 € / mes (450 € / año) con pago anual."
+          },
+          "gym": {
+            "title": "Gym+",
+            "description": "Acceso al equipamiento y a los entrenamientos del gimnasio del club. Próximamente disponible.",
+            "priceMonthly": "50 € / mes",
+            "priceAnnual": "37,5 € / mes (450 € / año) con pago anual."
+          },
+          "daypass": {
+            "title": "Day-pass",
+            "description": "Invitados adicionales pueden disfrutar del club con un pase diario.",
+            "price": "40 € / día"
+          }
+        },
+        "family": {
+          "heading": "Familias e invitados",
+          "paragraph1": "Las familias pueden añadir miembros de la misma unidad familiar con un 50% de descuento. Disfrutan de los mismos beneficios e invitaciones.",
+          "paragraph2": "La Membresía Base incluye acceso gratuito para un invitado a piscina y terraza y ofrece day-pass reducidos de 10 € por persona para invitados adicionales.",
+          "paragraph3": "Padel+ permite invitar a tres personas a jugar; cada invitado abona únicamente 5 € por hora de pista y no necesita day-pass.",
+          "paragraph4": "Las cuotas se abonan por adelantado mediante el método de pago facilitado. Si hay alguna incidencia dispones de 15 días para actualizarlo antes de pausar la membresía.",
+          "paragraph5": "Los invitados deben permanecer acompañados por la persona socia responsable y cumplir las normas del club en todo momento."
+        },
+        "rules": {
+          "heading": "Acceso y normas",
+          "paragraph1": "Somos un club pet-friendly donde las mascotas y las personas mayores de 14 años son bienvenidas.",
+          "paragraph2": "Solo las personas socias pueden acceder con mascota y se responsabilizan de su comportamiento, posibles daños y limpieza. El club puede solicitar su salida si afecta a la experiencia del resto.",
+          "paragraph3": "El acceso principal se realiza por el control situado en la parte posterior del restaurante.",
+          "paragraph4": "El paso de terraza entre restaurante y piscina se reserva exclusivamente para conectar ambas áreas; evita otros usos para preservar la experiencia de todos.",
+          "paragraph5": "Además de las plazas incluidas en Parking+, hay estacionamientos públicos a pocos minutos del club para quienes visitan la piscina o el restaurante.",
+          "paragraph6": "Las personas con Parking+ pueden utilizar las plazas del club hasta 4 horas al día, siempre sujetas a disponibilidad."
+        }
+      },
+      "pricing": {
+        "label": "Membresía anual",
+        "detail": "Equivalente a 107,5 €/mes — un 25% de ahorro sobre la cuota mensual. Las personas invitadas pueden disfrutar de acceso completo acompañadas de una persona socia."
+      },
+      "household": {
+        "heading": "Ventaja para hogares",
+        "description": "Cada miembro adicional del hogar puede unirse con un 25% de descuento — 967 € anuales — con los mismos beneficios completos que una membresía independiente.",
+        "note": "*Las personas socias e invitadas deben tener más de 10 años (consultar excepciones)."
+      },
+      "activities": {
+        "heading": "Actividades y servicios",
+        "padelLesson": {
+          "title": "Clase de pádel",
+          "detail": "30 €/hora para hasta 4 personas socias (o invitadas)."
+        },
+        "physio": {
+          "title": "Fisioterapia/Masaje",
+          "detail": "Desde 60 €/hora."
+        },
+        "events": {
+          "title": "Eventos privados",
+          "detail": "Propuestas a medida bajo petición."
+        }
+      }
+    },
+    "contact": {
+      "subtitle": "Contacto",
+      "description": "Terreno Club se sitúa en el extremo sur del barrio de El Terreno, junto al Torrent des Mal Pas, donde se alzó el histórico Hotel California.",
+      "heading": "Contacto",
+      "labels": {
+        "email": "Correo",
+        "padelEmail": "Correo Pádel",
+        "phone": "Teléfono",
+        "address": "Dirección",
+        "hours": "Horario",
+        "instagram": "Instagram"
+      },
+      "hours": "Todos los días · 9:30 a 16:00"
+    }
+  },
+  "privacy": {
+    "heading": "Política de privacidad",
+    "paragraph1": "Respetamos la confidencialidad de la información personal compartida con Terreno Club y la utilizamos únicamente para gestionar la relación con nuestras personas socias.",
+    "paragraph2": "Los datos se almacenan en sistemas seguros y solo se comparten con proveedores cuando es imprescindible para prestar nuestros servicios.",
+    "paragraph3": "Puedes solicitar la actualización o eliminación de tus datos personales escribiendo a hola@terrenoclub.com."
+  }
+}

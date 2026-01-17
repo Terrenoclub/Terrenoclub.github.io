@@ -1,0 +1,37 @@
+<header>
+  <button
+    class="menu-toggle"
+    type="button"
+    aria-expanded="false"
+    aria-controls="site-drawer"
+    data-drawer-toggle
+  >
+    <span class="menu-toggle-box" aria-hidden="true">
+      <span class="menu-toggle-bar"></span>
+      <span class="menu-toggle-bar"></span>
+      <span class="menu-toggle-bar"></span>
+    </span>
+    <span class="sr-only" data-i18n="nav.menu">Menu</span>
+  </button>
+  <div class="logo">
+    <img src="images/menu-logo.svg" alt="Terreno Club">
+  </div>
+  <div class="drawer" id="site-drawer" aria-hidden="true" data-drawer>
+    <nav aria-label="Secciones del sitio" data-i18n-attr="aria-label:nav.ariaLabel">
+      <a href="#about" data-section-target="presentacion" data-i18n="nav.links.presentacion">About</a>
+      <a href="#padel" data-i18n="nav.links.padel">Padel</a>
+      <a href="#food" data-i18n="nav.links.food">Food</a>
+      <a href="#pool" data-i18n="nav.links.swim">Pool</a>
+      <a href="#membership" data-i18n="nav.links.membership">Membership</a>
+      <a href="#contact" data-i18n="nav.links.contact">Contact</a>
+    </nav>
+    <div class="drawer-language">
+      <label for="drawer-language-select" data-i18n="footer.languageLabel">Language</label>
+      <select id="drawer-language-select" data-language-selector>
+        <option value="en" data-i18n="languageNames.en">English</option>
+        <option value="es" data-i18n="languageNames.es">Español</option>
+      </select>
+    </div>
+  </div>
+</header>
+<div class="drawer-overlay" data-drawer-overlay hidden></div>

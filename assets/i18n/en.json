@@ -1,0 +1,247 @@
+{
+  "language": "English",
+  "head": {
+    "home": {
+      "title": "Terreno Club — Play. Relax. Connect.",
+      "description": "Experience Terreno Club, a members’ club in El Terreno combining sport, dining, and wellness.",
+      "ogTitle": "Terreno Club",
+      "ogDescription": "Discover Terreno Club — a creative and modern space."
+    },
+    "privacy": {
+      "title": "Terreno Club — Privacy Policy",
+      "description": "Learn how Terreno Club manages and protects your personal information.",
+      "ogTitle": "Terreno Club — Privacy",
+      "ogDescription": "Understand Terreno Club’s approach to data protection."
+    }
+  },
+  "nav": {
+    "ariaLabel": "Site sections",
+    "links": {
+      "presentacion": "About",
+      "padel": "Padel",
+      "food": "Food",
+      "swim": "Pool",
+      "membership": "Membership",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Terreno Club. All rights reserved.",
+    "languageLabel": "Language",
+    "email": "info@terrenoclub.es",
+    "phone": "+34 971 45 36 46",
+    "instagramAria": "Open Terreno Club on Instagram (opens in a new tab)",
+    "gallery": {
+      "title": "Life at Terreno Club",
+      "cta": "Follow us on Instagram",
+      "ctaAria": "See the latest Terreno Club posts on Instagram (opens in a new tab)",
+      "ariaLabel": "Terreno Club Instagram gallery"
+    },
+    "links": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "rules": "House Rules",
+      "contact": "Contact"
+    }
+  },
+  "languageNames": {
+    "en": "English",
+    "es": "Español"
+  },
+  "home": {
+    "hero": {
+      "title": "Play. Relax. Connect.",
+      "tagline": "Experience a club where wellness, activity, and lifestyle come together.",
+      "ctaMembership": "Apply for membership",
+      "ctaContact": "Contact us",
+      "ctaMenu": "Menu del día (PDF)",
+      "ctaMenuAria": "Open the weekly menu del día PDF in a new tab"
+    },
+    "media": {
+      "heroAlt": "Aerial view of Terreno Club",
+      "aboutGraphicAlt": "Terreno Club memberships graphic",
+      "aboutGraphicSrc": "titles_images/titles_about_en.svg",
+      "aboutInteriorAlt": "Terreno Club interior lobby",
+      "padelHeroAlt": "Padel court at Terreno Club",
+      "padelGraphicAlt": "Padel section title graphic",
+      "padelGraphicSrc": "titles_images/titles_padel_en.svg",
+      "padelActionAlt": "Members playing padel at Terreno Club",
+      "foodHeroAlt": "Club terrace at sunset",
+      "foodGraphicAlt": "Food section title graphic",
+      "foodGraphicSrc": "titles_images/titles_food_en.svg",
+      "foodDetailAlt": "Club terrace at sunset",
+      "swimHeroAlt": "Poolside terrace at Terreno Club",
+      "swimGraphicAlt": "Pool section title graphic",
+      "swimGraphicSrc": "titles_images/titles_pool_en.svg",
+      "swimRelaxAlt": "Members relaxing beside the outdoor pool",
+      "membershipHeroAlt": "Members gathering for a long-table meal on the terrace",
+      "membershipGraphicAlt": "Membership section title graphic",
+      "membershipGraphicSrc": "titles_images/titles_membership_en.svg",
+      "membershipMiniAlt": "Loungers and umbrellas beside the Terreno Club pool",
+      "contactHeroAlt": "Outdoor pool at Terreno Club",
+      "contactGraphicAlt": "Contact section title graphic",
+      "contactGraphicSrc": "titles_images/titles_contact_en.svg"
+    },
+    "about": {
+      "paragraph1": "Welcome to Terreno Club, a private sanctuary in the heart of Palma’s historic El Terreno district. Designed for those who appreciate the balance between sport, relaxation, and refined social living, Terreno Club offers an exclusive setting where Mediterranean elegance meets contemporary comfort.",
+      "paragraph2": "Members can enjoy padel courts, a vibrant poolside terrace, and a restaurant that blends sophistication with an easy, natural charm. Whether for an early match, a leisurely lunch, or an evening among friends, Terreno Club invites you to slow down and savour life’s finer moments."
+    },
+    "padel": {
+      "heading": "Padel",
+      "paragraph1": "Enjoy three premium padel courts designed for doubles play in a bright, open-air setting. Play matches with friends or participate in community games while enjoying the club’s atmosphere.",
+      "paragraph2": "Members may also book private or group lessons with our professional coaches for tailored guidance and skill development."
+    },
+    "food": {
+      "heading": "Food",
+      "paragraph1": "Open to the public, our restaurant offers delicious dishes made with locally sourced ingredients, along with cocktails, smoothies, and specialty coffee.",
+      "paragraph2": "On weekends and public holidays, we serve a special brunch menu.",
+      "paragraph3": "Join us for special events hosted throughout the year.",
+      "bookTableCta": "Book a table",
+      "menuCtaLabel": "Check the menu (PDF)",
+      "menuCtaAria": "Open the full restaurant menu PDF in a new tab",
+      "bookTableModalTitle": "Book a table",
+      "bookTableCloseLabel": "Close table booking modal"
+    },
+    "swim": {
+      "heading": "Pool",
+      "paragraph1": "Immerse yourself in our heated outdoor pool, surrounded by Mediterranean greenery and lounging areas designed to disconnect from the city rhythm.",
+      "paragraph2": "Relax on sunbeds and daybeds while enjoying healthy drinks and snacks from the club.",
+      "paragraph3": "Complete the experience with outdoor showers, fresh towels, and a serene ambiance ready to recharge you at any time of day."
+    },
+    "membership": {
+      "headingShort": "Memberships",
+      "heading": "Membership, curated for El Terreno life",
+      "paragraph1": "Discover a place where wellness, leisure, and connection come naturally.",
+      "paragraph2": "As a member of Terreno Club, you’ll enjoy access to beautiful social spaces, our heated pool, padel courts, and events designed to bring people together.",
+      "paragraph3": "It’s more than just a club — it’s a community. A place to unwind, share good moments, and be part of something special in the heart of Palma. Join Terreno Club and feel at home from the very first day.",
+      "benefitsHeading": "As a member, you enjoy:",
+      "benefits": {
+        "item1": "Our heated saltwater pool",
+        "item2": "Unlimited padel court use at no extra cost",
+        "item3": "10% savings at the restaurant and poolside bar",
+        "item4": "Guest invitations at 10 € per person/day",
+        "item5": "Priority access to curated events and exclusive member experiences",
+        "item6": "No joining fee"
+      },
+      "annualMembership": "<strong>Annual Membership (1,290 €):</strong> Full access to all club facilities and member privileges.",
+      "householdMembership": "<strong>Household Membership (967.50 €):</strong> Add household members at a 25% reduced rate, with full benefits included.",
+      "childrenHeading": "<strong>Children:</strong>",
+      "children": {
+        "age05": "<strong>0–5 years:</strong> Complimentary",
+        "age613": "<strong>6–13 years:</strong> 430 €/year or 10 €/day guest access",
+        "age14": "<strong>14+ years:</strong> 645 €/year or 10 €/day guest access"
+      },
+      "closing": "It’s more than just a club — it’s a community. A place to unwind, share good moments, and be part of something special in the heart of Palma. Join Terreno Club and feel at home from the very first day. Please contact us for more information.",
+      "intro": "Terreno Club keeps membership intentionally intimate—a circle of Palma residents who treat the terrace, padel courts, and restaurant as their Mediterranean living room.",
+      "highlights": {
+        "item1": "Year-round access to the pool, restaurant, padel courts, and curated happenings across the club.",
+        "item2": "Household pricing, guest invitations, and flexible add-ons such as Padel+, Parking+, and Gym+.",
+        "item3": "Concierge support for private lessons, treatments, and events hosted with our community partners."
+      },
+      "ctaLabel": "Apply for membership",
+      "ctaAria": "Start your Terreno Club membership application via email",
+      "tabs": {
+        "ariaLabel": "Club membership details",
+        "plan": "Plans & Pricing",
+        "family": "Families, Guests & Billing",
+        "rules": "Club Access & Rules"
+      },
+      "panels": {
+        "plan": {
+          "heading": "Plans & Pricing",
+          "intro": "Build your membership with the add-ons that best fit your routine.",
+          "base": {
+            "title": "Base Membership",
+            "description": "Access to the pool, terrace, and club events, plus a 10% discount at the restaurant. Includes entry for one complimentary guest.",
+            "priceMonthly": "110 € / month",
+            "priceAnnual": "€82.5 / month (990 € / year) when paid annually."
+          },
+          "padel": {
+            "title": "Padel+",
+            "description": "Unlimited padel bookings with the ability to block up to 2 hours per week. Invite three guests who only cover the court fee.",
+            "priceMonthly": "40 € / month",
+            "priceAnnual": "30 € / month with annual plan."
+          },
+          "parking": {
+            "title": "Parking+",
+            "description": "Use club parking spaces for up to 4 hours per day, subject to availability.",
+            "priceMonthly": "50 € / month",
+            "priceAnnual": "€37.5 / month (450 € / year) when paid annually."
+          },
+          "gym": {
+            "title": "Gym+",
+            "description": "Access the club gym equipment and training sessions. Coming soon.",
+            "priceMonthly": "50 € / month",
+            "priceAnnual": "€37.5 / month (450 € / year) when paid annually."
+          },
+          "daypass": {
+            "title": "Day-pass",
+            "description": "Additional guests can enjoy the club with a daily pass.",
+            "price": "40 € / day"
+          }
+        },
+        "family": {
+          "heading": "Families, Guests & Billing",
+          "paragraph1": "Households can add family members to the primary membership at 50% off. Family members enjoy the same benefits and invitations.",
+          "paragraph2": "The Base membership includes free access for one guest to the pool and terrace, plus reduced 10 € day passes for additional guests.",
+          "paragraph3": "Padel+ lets you invite three people to play; each guest only pays 5 € per court hour and doesn’t need a day-pass.",
+          "paragraph4": "Fees are charged in advance via the provided payment method. If there’s an issue, you have 15 days to update it before the membership is paused.",
+          "paragraph5": "Guests must stay with the responsible member and follow club rules at all times."
+        },
+        "rules": {
+          "heading": "Club Access & Rules",
+          "paragraph1": "We’re a pet-friendly club where well-behaved pets and guests aged 14+ are welcome.",
+          "paragraph2": "Only members may bring pets and are responsible for their behaviour, any damage, and cleanliness. The club may request a pet to leave if it affects others’ experience.",
+          "paragraph3": "Use the main entrance via the access point located behind the restaurant.",
+          "paragraph4": "The terrace path between the restaurant and pool is reserved to connect both areas; please avoid other uses to protect everyone’s experience.",
+          "paragraph5": "Alongside Parking+ spaces, public parking is available a short walk from the club for pool and restaurant visitors.",
+          "paragraph6": "Members with Parking+ may use club parking for up to 4 hours per day, subject to availability."
+        }
+      },
+      "pricing": {
+        "label": "Annual membership",
+        "detail": "107.5 €/month equivalent — a 25% saving on monthly fees. Guests can enjoy full access when accompanied by a member."
+      },
+      "household": {
+        "heading": "Household Advantage",
+        "description": "For households, each additional member can join at 25% off—967 € annually—with the same full benefits as an independent membership.",
+        "note": "*Members and guests should be over 10 years of age (enquiry for exceptions)."
+      },
+      "activities": {
+        "heading": "Activities & Services",
+        "padelLesson": {
+          "title": "Padel lesson",
+          "detail": "30 €/hour for up to 4 members (or guests)."
+        },
+        "physio": {
+          "title": "Physiotherapy/Massage",
+          "detail": "From 60 €/hour."
+        },
+        "events": {
+          "title": "Private events",
+          "detail": "Tailored proposals available on request."
+        }
+      }
+    },
+    "contact": {
+      "subtitle": "Contact",
+      "description": "Terreno Club is located on the south end of El Terreno, beside Torrent des Mal Pas, once home to the historic Hotel California.",
+      "heading": "Contact",
+      "labels": {
+        "email": "Email",
+        "padelEmail": "Padel Email",
+        "phone": "Phone",
+        "address": "Address",
+        "hours": "Hours",
+        "instagram": "Instagram"
+      },
+      "hours": "Daily · 09:30 – 16:00"
+    }
+  },
+  "privacy": {
+    "heading": "Privacy Policy",
+    "paragraph1": "We respect the confidentiality of every piece of personal information shared with Terreno Club and only use it to manage our relationship with members.",
+    "paragraph2": "Data is stored in secure systems and only shared with providers when it is essential for delivering our services.",
+    "paragraph3": "You can request updates or deletion of your personal data by emailing hola@terrenoclub.com."
+  }
+}

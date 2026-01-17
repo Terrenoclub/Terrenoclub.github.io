@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Terreno Club</title>
+  <meta name="description" content="Terreno Club — Experience a club where wellness, activity, and lifestyle come together" />
+  <!-- Favicons and app icons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+  <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#000000">
+  <link rel="manifest" href="/images/site.webmanifest">
+
+  <!-- Windows tiles -->
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="msapplication-config" content="/images/browserconfig.xml">
+
+  <!-- Theme colors -->
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+
+  <!-- Social meta (optional) -->
+  <meta property="og:title" content="Terreno Club">
+  <meta property="og:description" content="Experience a club where wellness, activity, and lifestyle come together.">
+  <meta property="og:image" content="/images/android-chrome-512x512.png">
+  <meta property="og:type" content="website">
+
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <style>
+    main section .feature-layout {
+      margin-inline: auto;
+      max-width: min(100%, 1080px);
+      justify-content: center;
+    }
+
+    @media (min-width: 768px) {
+      main section .feature-layout {
+        align-items: flex-start;
+      }
+    }
+
+    main section .feature-text h3 {
+      margin: 0;
+      font-size: clamp(1.75rem, 3vw, 2.3rem);
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      text-align: center;
+      width: 100%;
+    }
+    .about-extra-media > img,
+    .padel-extra-media > img {
+      height: clamp(320px, 80vh, 960px);
+    }
+  </style>
+  <script src="assets/js/layout.js" defer></script>
+  <script src="assets/js/site.js" defer></script>
+</head>
+<body class="has-drawer hero-logo-hidden" data-page="home">
+  <div data-include="partials/header-drawer.html"></div>
+
+  <main>
+    <section id="presentacion">
+      <figure class="section-media">
+        <img src="images/aerea.jpeg" alt="Aerial view of Terreno Club" loading="eager" data-i18n-attr="alt:home.media.heroAlt">
+        <div class="title-graphic">
+          <div class="hero-heading" data-scroll-animate>
+            <img class="hero-logo" src="images/hero-logo.svg" alt="Terreno Club" loading="eager">
+            <p data-i18n="home.hero.tagline">A place where movement, wellness and community thrive together.</p>
+          </div>
+        </div>
+      </figure>
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate id="about">
+          <h2 class="visually-hidden">About</h2>
+          <img class="feature-title" src="titles_images/titles_about_en.svg" alt="Terreno Club memberships graphic" data-scroll-animate data-i18n-attr="alt:home.media.aboutGraphicAlt; src:home.media.aboutGraphicSrc">
+          <div class="feature-layout">
+            <div class="feature-media" data-scroll-animate>
+              <img src="images/about-left.png" alt="Terreno Club interior lobby" data-i18n-attr="alt:home.media.aboutInteriorAlt">
+            </div>
+            <div class="feature-text" data-scroll-animate>
+              <p data-i18n="home.about.paragraph1">Welcome to Terreno Club, a private sanctuary in the heart of Palma’s historic El Terreno district. Designed for those who appreciate the balance between sport, relaxation, and refined social living, Terreno Club offers an exclusive setting where Mediterranean elegance meets contemporary comfort.</p>
+              <p data-i18n="home.about.paragraph2">Members can enjoy padel courts, a vibrant poolside terrace, and a restaurant that blends sophistication with an easy, natural charm. Whether for an early match, a leisurely lunch, or an evening among friends, Terreno Club invites you to slow down and savour life’s finer moments.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <figure class="section-media about-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-about.jpg" alt="Terreno Club members relaxing together outdoors" loading="lazy">
+      </figure>
+    </section>
+    <section id="padel">
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate>
+          <h2 class="visually-hidden">Padel</h2>
+          <img class="feature-title" src="titles_images/titles_padel_en.svg" alt="Padel section title graphic" data-scroll-animate data-i18n-attr="alt:home.media.padelGraphicAlt; src:home.media.padelGraphicSrc">
+          <div class="feature-layout">
+            <div class="feature-media" data-scroll-animate>
+              <img src="images/padel-left.png" alt="Members playing padel at Terreno Club" data-i18n-attr="alt:home.media.padelActionAlt">
+            </div>
+            <div class="feature-text" data-scroll-animate>
+              <p data-i18n="home.padel.paragraph1">Enjoy three premium padel courts designed for doubles play in a bright, open-air setting. Play matches with friends or participate in community games while enjoying the club’s atmosphere.</p>
+              <p data-i18n="home.padel.paragraph2">Members may also book private or group lessons with our professional coaches for tailored guidance and skill development.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <figure class="section-media padel-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-padel.png" alt="Padel courts at Terreno Club with players on court" loading="lazy">
+      </figure>
+    </section>
+    <section id="food">
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate>
+          <h2 class="visually-hidden">Food</h2>
+          <img class="feature-title" src="titles_images/titles_food_en.svg" alt="Food section title graphic" data-scroll-animate data-i18n-attr="alt:home.media.foodGraphicAlt; src:home.media.foodGraphicSrc">
+          <div class="feature-layout">
+            <div class="feature-media" data-scroll-animate>
+              <img src="images/food-left.jpg" alt="Club terrace at sunset" data-i18n-attr="alt:home.media.foodDetailAlt">
+            </div>
+            <div class="feature-text" data-scroll-animate>
+              <p data-i18n="home.food.paragraph1">Our restaurant is open to the public, serves breakfast and lunch made from locally sourced ingredients alongside smoothies and specialty coffee.</p>
+              <p data-i18n="home.food.paragraph2">On weekends and public holidays, enjoy our special brunch offerings.</p>
+              <p data-i18n="home.food.paragraph3">We also host seasonal events throughout the year.</p>
+              <div class="cta-actions">
+                <button
+                  class="cta-button cta-button--primary"
+                  type="button"
+                  aria-haspopup="dialog"
+                  data-booking-open
+                  data-i18n="home.food.bookTableCta"
+                >
+                  Book a table
+                </button>
+                <a
+                  class="cta-button cta-button--secondary"
+                  href="assets/TERRENO-CLUB-menu.pdf"
+                  target="_blank"
+                  rel="noopener"
+                  aria-label="Open the full restaurant menu PDF in a new tab"
+                  data-i18n-attr="aria-label:home.food.menuCtaAria"
+                >
+                  <span data-i18n="home.food.menuCtaLabel">Check the menu (PDF)</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <figure class="section-media about-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-food.png" alt="Terreno Club food" loading="lazy">
+      </figure>
+    </section>
+    <section id="pool">
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate>
+          <h2 class="visually-hidden">Pool</h2>
+          <img class="feature-title" src="titles_images/titles_pool_en.svg" alt="Relax section title graphic" data-scroll-animate data-i18n-attr="alt:home.media.relaxGraphicAlt; src:home.media.swimGraphicSrc">
+          <div class="feature-layout">
+            <div class="feature-media" data-scroll-animate>
+              <img src="images/swim-left.png" alt="Members relaxing beside the outdoor pool" loading="lazy" data-i18n-attr="alt:home.media.swimRelaxAlt">
+            </div>
+            <div class="feature-text" data-scroll-animate>
+              <p data-i18n="home.swim.paragraph1">Immerse yourself in our heated saltwater outdoor pool, surrounded by lush Mediterranean greenery and lounging areas that offer an escape from the city’s rhythm.</p>
+              <p data-i18n="home.swim.paragraph2">Unwind on sunbeds as you enjoy refreshing drinks and wholesome snacks from our restaurant.</p>
+              <p data-i18n="home.swim.paragraph3">Enhance your experience with outdoor showers, fresh towels, and a serene atmosphere designed to rejuvenate you at any time of day.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <figure class="section-media about-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-pool.png" alt="Terreno Club pool" loading="lazy">
+      </figure>
+    </section>
+    <section id="membership">
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate>
+          <h2 class="visually-hidden" data-i18n="home.membership.headingShort">Memberships</h2>
+          <img class="feature-title" src="titles_images/titles_membership_en.svg" alt="Membership section title graphic" data-scroll-animate data-i18n-attr="alt:home.media.membershipGraphicAlt; src:home.media.membershipGraphicSrc">
+          <div class="feature-layout membership-overview">
+            <div class="feature-media membership-mini" data-scroll-animate>
+              <img src="images/membership-left.png" alt="Poolside loungers with terracotta umbrellas" data-i18n-attr="alt:home.media.membershipMiniAlt">
+            </div>
+            <div class="feature-text" data-scroll-animate>
+              <div class="membership-intro">
+                <p data-i18n="home.membership.paragraph1">Discover a place where wellness, leisure, and connection come naturally.</p>
+              </div>
+              <div>
+                <h4 data-i18n="home.membership.benefitsHeading">As a member, you enjoy:</h4>
+                <ul class="membership-highlights">
+                  <li data-i18n="home.membership.benefits.item1">Our heated saltwater pool</li>
+                  <li data-i18n="home.membership.benefits.item2">Unlimited padel court use at no extra cost</li>
+                  <li data-i18n="home.membership.benefits.item3">10% savings at the restaurant and poolside bar</li>
+                  <li data-i18n="home.membership.benefits.item4">Guest invitations at 10 € per person/day</li>
+                  <li data-i18n="home.membership.benefits.item5">Priority access to curated events and exclusive member experiences</li>
+                  <li data-i18n="home.membership.benefits.item6">No joining fee</li>
+                </ul>
+              </div>
+              <div>
+                <p data-i18n="home.membership.annualMembership" data-i18n-mode="html">
+                  <strong>Annual Membership (1,290 €):</strong>
+                  Full access to all club facilities and member privileges.
+                </p>
+                <p data-i18n="home.membership.householdMembership" data-i18n-mode="html">
+                  <strong>Household Membership (967.50 €):</strong>
+                  Add household members at a 25% reduced rate, with full benefits included.
+                </p>
+                <div>
+                  <p data-i18n="home.membership.childrenHeading" data-i18n-mode="html"><strong>Children:</strong></p>
+                  <ul>
+                    <li data-i18n="home.membership.children.age05" data-i18n-mode="html"><strong>0–5 years:</strong> Complimentary</li>
+                    <li data-i18n="home.membership.children.age613" data-i18n-mode="html"><strong>6–13 years:</strong> 430 €/year or 10 €/day guest access</li>
+                    <li data-i18n="home.membership.children.age14" data-i18n-mode="html"><strong>14+ years:</strong> 645 €/year or 10 €/day guest access</li>
+                  </ul>
+                </div>
+              </div>
+              <p data-i18n="home.membership.closing">It’s more than just a club — it’s a community. A place to unwind, share good moments, and be part of something special in the heart of Palma. Join Terreno Club and feel at home from the very first day. Please contact us for more information.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <figure class="section-media about-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-membership.png" alt="Terreno Club membership" loading="lazy">
+      </figure>
+      <figure class="section-media about-extra-media" data-scroll-animate aria-hidden="true">
+        <img src="images/big-membership-second.png" alt="Terreno Club membership" loading="lazy">
+      </figure>
+    </section>
+    <section id="contact">
+      <div class="content-wrap">
+        <div class="content-block feature-block" data-scroll-animate>
+          <h2 class="visually-hidden">Contact</h2>
+          <img class="feature-title" src="titles_images/titles_contact_en.svg" alt="Contact section title graphic" data-scroll-animate data-i18n-attr="alt:home.media.contactGraphicAlt; src:home.media.contactGraphicSrc">
+          <div class="feature-layout contact-layout">
+            <div class="feature-media contact-media" data-scroll-animate>
+              <img src="images/contact.jpeg" alt="Outdoor pool at Terreno Club" loading="lazy" data-i18n-attr="alt:home.media.contactHeroAlt">
+            </div>
+            <div class="contact-content">
+              <div class="feature-text contact-card" data-scroll-animate>
+                <div class="contact-panel">
+                  <ul class="contact-methods">
+                    <li>
+                      <span class="contact-label" data-i18n="home.contact.labels.email">Email</span>
+                      <a href="mailto:info@terrenoclub.es">info@terrenoclub.es</a>
+                    </li>
+                    <li>
+                      <span class="contact-label" data-i18n="home.contact.labels.padelEmail">Padel Email</span>
+                      <a href="mailto:padel@terrenoclub.es">padel@terrenoclub.es</a>
+                    </li>
+                    <li>
+                      <span class="contact-label" data-i18n="home.contact.labels.phone">Phone</span>
+                      <a href="tel:+34971453646">+34&nbsp;971&nbsp;45&nbsp;36&nbsp;46</a>
+                    </li>
+                    <li>
+                      <span class="contact-label" data-i18n="home.contact.labels.address">Address</span>
+                      <address>Avinguda Joan Miró 138 · 07015, Palma</address>
+                    </li>
+                    <li>
+                      <span class="contact-label" data-i18n="home.contact.labels.hours">Hours</span>
+                      <span data-i18n="home.contact.hours">Daily · 09:30 – 16:00</span>
+                    </li>
+                    <li class="contact-social">
+                      <span class="contact-label" data-i18n="home.contact.labels.instagram">Instagram</span>
+                      <a class="contact-social-link" href="https://www.instagram.com/terrenoclub/" target="_blank" rel="noopener">
+                        <svg fill="#494949" height="25px" width="25px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                          viewBox="-271 273 256 256" xml:space="preserve">
+                          <path d="M-64.5,273h-157c-27.3,0-49.5,22.2-49.5,49.5v52.3v104.8c0,27.3,22.2,49.5,49.5,49.5h157c27.3,0,49.5-22.2,49.5-49.5V374.7
+                            v-52.3C-15.1,295.2-37.3,273-64.5,273z M-50.3,302.5h5.7v5.6v37.8l-43.3,0.1l-0.1-43.4L-50.3,302.5z M-179.6,374.7
+                            c8.2-11.3,21.5-18.8,36.5-18.8s28.3,7.4,36.5,18.8c5.4,7.4,8.5,16.5,8.5,26.3c0,24.8-20.2,45.1-45.1,45.1s-44.9-20.3-44.9-45.1
+                            C-188.1,391.2-184.9,382.1-179.6,374.7z M-40,479.5C-40,493-51,504-64.5,504h-157c-13.5,0-24.5-11-24.5-24.5V374.7h38.2
+                            c-3.3,8.1-5.2,17-5.2,26.3c0,38.6,31.4,70,70,70c38.6,0,70-31.4,70-70c0-9.3-1.9-18.2-5.2-26.3H-40V479.5z"/>
+                        </svg>
+                        <span>@terrenoclub</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="contact-map" data-scroll-animate>
+                <p data-i18n="home.contact.description">Terreno Club is located on the south end of El Terreno, beside Torrent des Mal Pas, once home to the historic Hotel California.</p>
+                <div class="map-frame">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.069666962632!2d2.6202684758135053!3d39.55803667159046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x129793fa03d2fbd3%3A0xfb7fbd5151b82a8f!2sTerreno%20Club!5e0!3m2!1sen!2ses!4v1761341797248!5m2!1sen!2ses" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <div data-include="partials/footer.html"></div>
+  <div class="booking-modal" data-booking-modal hidden>
+    <div
+      class="booking-modal__dialog"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="booking-modal-title"
+      data-booking-dialog
+      tabindex="-1"
+    >
+      <div class="booking-modal__header">
+        <h3 id="booking-modal-title" data-i18n="home.food.bookTableModalTitle">Book a table</h3>
+        <button
+          type="button"
+          class="booking-modal__close"
+          data-booking-close
+          aria-label="Close booking modal"
+          data-i18n-attr="aria-label:home.food.bookTableCloseLabel"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="booking-modal__body">
+        <div id="hors-hydra-e399f9fa-8f39-4696-bdbd-a4327394a6e6" class="booking-modal__embed"></div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="assets/js/tabs.js"></script>
+</body>
+</html>
