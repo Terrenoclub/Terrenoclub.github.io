@@ -131,7 +131,9 @@
         "age613": "<strong>6–13 years:</strong> 430 €/year or 10 €/day guest access",
         "age14": "<strong>14+ years:</strong> 645 €/year or 10 €/day guest access"
       },
-      "closing": "It’s more than just a club — it’s a community. A place to unwind, share good moments, and be part of something special in the heart of Palma. Join Terreno Club and feel at home from the very first day. Please contact us for more information.",
+      "closing": "It's more than just a club — it's a community. A place to unwind, share good moments, and be part of something special in the heart of Palma. Join Terreno Club and feel at home from the very first day. Please contact us for more information.",
+      "becomeMemberCta": "Become a Member",
+      "becomeMemberHref": "mailto:members@terrenoclub.es?subject=Terreno%20Club%20Membership&body=Hello%20Terreno%20Club%20team%2C%0A%0AI%E2%80%99m%20interested%20in%20becoming%20a%20member.%0A%0AThank%20you%2C",
       "intro": "Terreno Club keeps membership intentionally intimate—a circle of Palma residents who treat the terrace, padel courts, and restaurant as their Mediterranean living room.",
       "highlights": {
         "item1": "Year-round access to the pool, restaurant, padel courts, and curated happenings across the club.",

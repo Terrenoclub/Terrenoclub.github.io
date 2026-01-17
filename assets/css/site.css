@@ -1239,6 +1239,18 @@ body {
       box-shadow: 0 14px 36px rgba(0, 0, 0, 0.22);
     }
 
+    .cta-button--primary-inverted {
+      background: var(--menu);
+      color: var(--teal);
+      border-color: var(--teal);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+    }
+
+    .cta-button--primary-inverted:hover,
+    .cta-button--primary-inverted:focus-visible {
+      box-shadow: 0 14px 36px rgba(0, 0, 0, 0.22);
+    }
+
     .cta-button--outline:hover,
     .cta-button--outline:focus-visible {
       box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
