@@ -21,6 +21,7 @@
       "padel": "Padel",
       "food": "Food",
       "swim": "Pool",
+      "wellness": "Wellness",
       "membership": "Membership",
       "contact": "Contact"
     }
@@ -74,10 +75,14 @@
       "swimGraphicAlt": "Pool section title graphic",
       "swimGraphicSrc": "titles_images/titles_pool_en.svg",
       "swimRelaxAlt": "Members relaxing beside the outdoor pool",
+      "wellnessGraphicAlt": "Wellness section title graphic",
+      "wellnessGraphicSrc": "titles_images/titles_wellness_en.svg",
+      "wellnessSaunaAlt": "Outdoor sauna surrounded by garden greenery",
       "membershipHeroAlt": "Members gathering for a long-table meal on the terrace",
       "membershipGraphicAlt": "Membership section title graphic",
       "membershipGraphicSrc": "titles_images/titles_membership_en.svg",
       "membershipMiniAlt": "Loungers and umbrellas beside the Terreno Club pool",
+      "membershipFitnessAlt": "Fitness deck beneath the padel courts at night",
       "contactHeroAlt": "Outdoor pool at Terreno Club",
       "contactGraphicAlt": "Contact section title graphic",
       "contactGraphicSrc": "titles_images/titles_contact_en.svg"
@@ -108,6 +113,16 @@
       "paragraph2": "Relax on sunbeds and daybeds while enjoying healthy drinks and snacks from the club.",
       "paragraph3": "Complete the experience with outdoor showers, fresh towels, and a serene ambiance ready to recharge you at any time of day."
     },
+    "wellness": {
+      "heading": "Wellness",
+      "paragraph1": "Restore body and mind in our sauna and cold plunge, tucked among the garden greenery for the classic contrast of heat and cold.",
+      "paragraph2": "Beneath the padel courts, our open-air fitness deck is equipped for strength and functional training at any time of day.",
+      "paragraph3": "Join our yoga and fitness classes throughout the week, or <a href=\"https://api.whatsapp.com/send/?phone=34614927700&amp;text=Hello+PADEL+LAB%21+I+would+like+to+book+a+session.&amp;type=phone_number&amp;app_absent=0\" target=\"_blank\" rel=\"noopener\">book</a> a massage to complete your recovery.",
+      "paragraph4": "Our on-site sports physiotherapy studio specialises in padel. It offers injury assessment and treatment, sport massage, and strength and conditioning programmes, combining hands-on therapy with targeted training to keep you playing at your best.",
+      "physioCta": "Book a session",
+      "physioMoreCta": "Learn more",
+      "physioMoreAria": "Open the physiotherapy studio website in a new tab"
+    },
     "membership": {
       "headingShort": "Memberships",
       "heading": "Membership, curated for El Terreno life",
@@ -121,8 +136,10 @@
         "item3": "10% savings at the restaurant and poolside bar",
         "item4": "Guest invitations at 10 € per person/day",
         "item5": "Priority access to curated events and exclusive member experiences",
-        "item6": "No joining fee"
+        "item6": "No joining fee",
+        "item7": "Unlimited use of the sauna, cold plunge and fitness area"
       },
+      "pricingHeading": "Pricing",
       "annualMembership": "<strong>Annual Membership (1,290 €):</strong> Full access to all club facilities and member privileges.",
       "householdMembership": "<strong>Household Membership (967.50 €):</strong> Add household members at a 25% reduced rate, with full benefits included.",
       "childrenHeading": "<strong>Children:</strong>",

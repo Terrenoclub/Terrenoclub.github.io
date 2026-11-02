@@ -21,6 +21,7 @@
       "padel": "Pádel",
       "food": "Restaurante",
       "swim": "Piscina",
+      "wellness": "Bienestar",
       "membership": "Membresía",
       "contact": "Contacto"
     }
@@ -74,10 +75,14 @@
       "swimGraphicAlt": "Gráfico de título de la sección Piscina",
       "swimGraphicSrc": "titles_images/titles_pool_es.svg",
       "swimRelaxAlt": "Personas relajándose junto a la piscina exterior",
+      "wellnessGraphicAlt": "Gráfico de título de la sección Bienestar",
+      "wellnessGraphicSrc": "titles_images/titles_wellness_es.svg",
+      "wellnessSaunaAlt": "Sauna exterior rodeada de vegetación del jardín",
       "membershipHeroAlt": "Socios compartiendo una comida en mesa larga en la terraza",
       "membershipGraphicAlt": "Gráfico de título de la sección Membresía",
       "membershipGraphicSrc": "titles_images/titles_membership_es.svg",
       "membershipMiniAlt": "Hamacas y sombrillas junto a la piscina de Terreno Club",
+      "membershipFitnessAlt": "Zona de fitness bajo las pistas de pádel de noche",
       "contactHeroAlt": "Piscina exterior del club",
       "contactGraphicAlt": "Gráfico de título de la sección Contacto",
       "contactGraphicSrc": "titles_images/titles_contact_es.svg"
@@ -108,6 +113,16 @@
       "paragraph2": "Relájate en las hamacas y daybeds del solárium mientras disfrutas del servicio de bebidas y snacks saludables del club.",
       "paragraph3": "Completa la experiencia con duchas exteriores, toallas frescas y un ambiente sereno pensado para recuperar energía a cualquier hora del día."
     },
+    "wellness": {
+      "heading": "Bienestar",
+      "paragraph1": "Recupera cuerpo y mente en nuestra sauna y la bañera de agua fría, rodeadas de la vegetación del jardín para disfrutar del clásico contraste entre calor y frío.",
+      "paragraph2": "Bajo las pistas de pádel, nuestra zona de fitness al aire libre está equipada para entrenamiento de fuerza y funcional a cualquier hora del día.",
+      "paragraph3": "Apúntate a nuestras clases semanales de yoga y fitness, o <a href=\"https://api.whatsapp.com/send/?phone=34614927700&amp;text=Hello+PADEL+LAB%21+I+would+like+to+book+a+session.&amp;type=phone_number&amp;app_absent=0\" target=\"_blank\" rel=\"noopener\">reserva</a> un masaje para completar tu recuperación.",
+      "paragraph4": "Nuestro estudio de fisioterapia deportiva en el club está especializado en pádel. Ofrece valoración y tratamiento de lesiones, masaje deportivo y programas de fuerza y acondicionamiento, combinando terapia manual con entrenamiento específico para que sigas jugando a tu mejor nivel.",
+      "physioCta": "Reserva una sesión",
+      "physioMoreCta": "Más información",
+      "physioMoreAria": "Abrir la web del estudio de fisioterapia en una nueva pestaña"
+    },
     "membership": {
       "headingShort": "Membresías",
       "heading": "Membresía pensada para la vida en El Terreno",
@@ -121,8 +136,10 @@
         "item3": "10% de ahorro en el restaurante y el bar de piscina",
         "item4": "Invitaciones para acompañantes por 10 € por persona/día",
         "item5": "Acceso prioritario a eventos curados y experiencias exclusivas para socios",
-        "item6": "Sin cuota de inscripción"
+        "item6": "Sin cuota de inscripción",
+        "item7": "Uso ilimitado de la sauna, la bañera de agua fría y la zona de fitness"
       },
+      "pricingHeading": "Precios",
       "annualMembership": "<strong>Membresía anual (1.290 €):</strong> Acceso completo a todas las instalaciones y ventajas del club.",
       "householdMembership": "<strong>Membresía familiar (967,50 €):</strong> Añade miembros del hogar con un 25% de descuento, con todos los beneficios incluidos.",
       "childrenHeading": "<strong>Menores:</strong>",
