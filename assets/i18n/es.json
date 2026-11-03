@@ -102,8 +102,10 @@
       "paragraph2": "Los fines de semana y festivos servimos un brunch especial.",
       "paragraph3": "A lo largo del año organizamos eventos únicos para disfrutar en comunidad.",
       "bookTableCta": "Reservar mesa",
-      "menuCtaLabel": "Ver el menú (PDF)",
-      "menuCtaAria": "Abrir el menú completo del restaurante en una nueva pestaña",
+      "menuWeekCtaLabel": "Menú entre semana",
+      "menuWeekCtaAria": "Abrir el menú de entre semana en una nueva pestaña",
+      "menuWeekendCtaLabel": "Brunch fin de semana",
+      "menuWeekendCtaAria": "Abrir el menú de brunch de fin de semana en una nueva pestaña",
       "bookTableModalTitle": "Reserva tu mesa",
       "bookTableCloseLabel": "Cerrar el modal de reservas"
     },
