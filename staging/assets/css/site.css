@@ -1296,6 +1296,13 @@ body {
       gap: 12px;
     }
 
+    .cta-menu-row {
+      display: flex;
+      flex-basis: 100%;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
     body.modal-open {
       overflow: hidden;
     }

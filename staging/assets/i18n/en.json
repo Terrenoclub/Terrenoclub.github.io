@@ -102,9 +102,9 @@
       "paragraph2": "On weekends and public holidays, we serve a special brunch menu.",
       "paragraph3": "Join us for special events hosted throughout the year.",
       "bookTableCta": "Book a table",
-      "menuWeekCtaLabel": "Weekday menu (PDF)",
+      "menuWeekCtaLabel": "Weekday menu",
       "menuWeekCtaAria": "Open the weekday menu PDF in a new tab",
-      "menuWeekendCtaLabel": "Weekend brunch (PDF)",
+      "menuWeekendCtaLabel": "Weekend brunch",
       "menuWeekendCtaAria": "Open the weekend brunch menu PDF in a new tab",
       "bookTableModalTitle": "Book a table",
       "bookTableCloseLabel": "Close table booking modal"
